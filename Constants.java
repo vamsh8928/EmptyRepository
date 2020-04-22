@@ -19,6 +19,7 @@ public class Constants {
 	public static final String MSG_EXPORT_DIR = "MSG_EXPORT_DIR";
 	public static final String MSG_EXPORT_FILENAME = "MSG_EXPORT_FILENAME";
 	public static final String MSG_COLUMN_NAME = "MSG_COLUMN_NAME";
+	//public static final String MSG_COLUMN_NAME = "MSG_COLUMN_NAME";
 	
 	
 	
