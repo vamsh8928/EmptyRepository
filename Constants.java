@@ -41,7 +41,7 @@ public class Constants {
 	public static final String PROPERTY_DOCUMENT_DATE = "Document_Date";
 	
 
-
+	String fileName = content.get_RetrievalName();
 	
 	//String fileName = content.get_RetrievalName();
 	
